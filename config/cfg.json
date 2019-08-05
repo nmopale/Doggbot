@@ -1,0 +1,9 @@
+{
+  "token"  : "token",
+  "prefix" : "$",
+  "database" : "litdogg_test",
+  "database_ip" : "host",
+  "database_user" : "db user",
+  "database_pass" : "db pass",
+  "database_port" : 3306
+}
